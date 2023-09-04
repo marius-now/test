@@ -3,7 +3,7 @@ const storeName = "linella";
 const storeDescription = {
   buget: 10000,
   employees: ["ion", "marius", "valentin"],
-  products: { banana: 200, mivina: 2 },
+  products: { banana: 200, mivina: 3 },
   open: true,
 };
 
